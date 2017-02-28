@@ -6,3 +6,9 @@ Test integration with Jenkins.
 - Set up Jenkins to authenticate to Github through an admin user.
 - Jenkins can either manually manage webhooks or auto-manage (Use manual).
 - Use ngrok to expose Jenkins running on localhost to the internet (If Jenkins instance is running on localhost).
+
+# Flow Diagram
+GitHub webhook --> ngrok --> Jenkins Job
+
+# Next Steps
+- Integrate github comment with Jenkins job.
