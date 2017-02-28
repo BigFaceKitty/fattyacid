@@ -1,4 +1,4 @@
-# fattyacid
+# Project fattyacid
 Test integration with Jenkins.
 
 # Steps
