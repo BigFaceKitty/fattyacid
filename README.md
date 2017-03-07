@@ -13,4 +13,4 @@ GitHub webhook --> ngrok --> Jenkins Job
 # Next Steps
 - Integrate github comment with Jenkins job.
   - Use Github pull request builder plugin
-- jenkins oh well
+- Test rebase and merge through github api.
